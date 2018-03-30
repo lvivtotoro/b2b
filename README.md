@@ -100,4 +100,11 @@ fixtfilter {
 }
 ```
 
-# 
+### `.b2*` file format
+
+```c
+b2* file format<structure> {
+	fba5 "Box2D"
+	structure
+}
+```
