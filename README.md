@@ -24,7 +24,7 @@ world {
 	while(uint8 == 'b') {
 		body
 	}
-	// Dont backtrack after the loop
+	// Backtrack one byte.
 }
 ```
 
@@ -50,7 +50,7 @@ body {
 	while(uint8 == 'f') {
 		fixture
 	}
-	// Dont backtrack after the loop
+	// Backtrack one byte.
 }
 ```
 
